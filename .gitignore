@@ -1,0 +1,10 @@
+node_modules
+dist
+dev-dist
+.vite
+.npm-cache
+vite.*.log
+*.tsbuildinfo
+*.local
+questions.local.json
+Fragenkatalog-*.pdf
